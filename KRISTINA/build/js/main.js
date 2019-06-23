@@ -1,0 +1,2 @@
+$(function(){$("#accordion").accordion({active:2})});
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uanMiXSwibmFtZXMiOlsiJCIsImFjY29yZGlvbiIsImFjdGl2ZSJdLCJtYXBwaW5ncyI6IkFBQUFBLEVBQUcsV0FDQ0EsRUFBRSxjQUFjQyxVQUFVLENBQUNDLE9BQU8iLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZXNDb250ZW50IjpbIiQoIGZ1bmN0aW9uKCl7XHJcbiAgICAkKFwiI2FjY29yZGlvblwiKS5hY2NvcmRpb24oe2FjdGl2ZToyfSk7XHJcbiAgfSk7Il19
